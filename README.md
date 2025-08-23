@@ -2,7 +2,7 @@
 ## olá, sou o João Victor
 👩‍💻 Estou estudando atualmente na Universidade Estadual de Goiás (UEG) - Sistemas de Informação
 
-🧠 Estou aprendendo php
+🧠 Desenvolvendo
 
 
 ## 🔗 Links
